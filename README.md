@@ -1,8 +1,5 @@
 # NEWFILE FOR DEMO
 
-HELLO!
-
-
-EDWIN HAHAHAHAHAHA!
-BASSIST
-d
+DESCRIPTION:
+In this Repo, you cant do and use any tools in GitHub for learning purpose.
+THIS REPOSITORY IS ONLY FOR STUDY AND DEMONSTRATION.
